@@ -1,0 +1,206 @@
+﻿
+@{
+    ViewBag.Title = "Call History Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.AntiForgeryToken()
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <section class="content-header">
+            <h6 class="panel-title">All Calll History</h6>
+            <ol class="breadcrumb">
+                <li class="active"><a href="/CallHistroy/CallHistoryDetails"><i class="fa fa-dashboard"></i> All Call History</a></li>
+            </ol>
+        </section>
+    </div>
+
+    <div class="panel-body">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">Filter Call History:</h4>
+            </div>
+            <div class="panel-body">
+                <div class="form-group col-sm-12">
+                    <div class="col-md-3" style="padding-left: 0px;">
+                        @Html.DropDownList("Company", null, "Select Company", new { @class = "form-control input-sm col-sm-11", @placeholder = "Select Company" })
+                    </div>
+                    <div class="col-md-3" style="padding-left: 0px;">
+                        @Html.TextBox("StartDateID", null, new { @class = "form-control input-sm col-sm-11", @placeholder = " Start Date " })
+                    </div>
+                    <div class="col-md-3" style="padding-left: 0px;">
+                        @Html.TextBox("EndDateID", null, new { @class = "form-control input-sm col-sm-11", @placeholder = " End Date " })
+                    </div>
+                    <div class="col-md-2" style="padding-left: 0px;">
+                        <input type="button" class="btn btn-primary btn-sm" id="btnSearch" value="Search" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="panel-body">
+        <table id="tblCallHistory" class="table table-bordered table-hover table-responsive table-striped" style="align-content: center; width: 100%;">
+            <thead>
+                <tr>
+                    <th hidden="hidden"></th>
+                    <th>
+                        @Html.DisplayName("Caller Name")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Caller Phone")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Country")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Subject")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Company")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Staff")
+                    </th>
+                    <th>
+                        @*@if (Project.AppUtils.HasAccessInTheList(Project.AppUtils.Create_CallHistory))
+                        {*@
+                            <a href="/CallHistory/CallHistoryDetails" style="font-weight:800;color: crimson" id="createNew">Create New</a>
+                        @*}*@
+                    </th>
+                </tr>
+            </thead>
+        </table>
+
+        @*@if (Project.AppUtils.HasAccessInTheList(Project.AppUtils.Delete_CallHistory))
+        {*@
+            <div class="modal fade" id="mdlCallHistoryDelete" role="dialog" style="overflow: auto" data-backdrop="static" data-keyboard="false">
+                <div class="modal-dialog modal-lg" style="width: 45%">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Delete Call Information</h4>
+                        </div>
+                        <div class="modal-body panel-body">
+                            Are you sure to delete this call history and its information?
+                            No data can be recover in future.
+                        </div>
+                        <div class="modal-footer">
+                            <div id="PopUp" style="float: right">
+                                <input type="button" id="btnDeleteClose" value="Close" class="btn btn-default btn-sm" />
+                                <input type="button" id="btnDelete" value="Delete" class="btn btn-primary btn-sm" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        @*}*@
+    </div>
+</div>
+
+<script src="~/Scripts/CustomScripts/CallHistoryManager.js"></script>
+<script>
+    var _CallHistoryID;
+    var table;
+    $(document).ready(function () {
+
+        table = $("#tblCallHistory").DataTable
+            ({
+                "language":
+                {
+                    "processing": "<div class='overlay custom-loader-background'><i class='fa fa-cog fa-spin custom-loader-color'></i></div>"
+                },
+                "processing": true,
+                "serverSide": true,
+
+                "ajax":
+                {
+                    "url": "/CallHistory/GetAllCallHistoryAjaxData",
+                    "type": "POST",
+                    "dataType": "JSON",
+                    data: function (d) {
+                        d.CompanyIDs = $("#CountryID").val();
+                        d.StartDateID = $("#StartDateID").val();
+                        d.EndDateID = $("#EndDateID").val();
+                        d.__RequestVerificationToken = $('[name=__RequestVerificationToken]').val();
+                    }
+                },
+                "columnDefs": [
+                    { "targets": [0], "width": "5%" },
+                    { "targets": [0], "data": "CallHistoryID", "render": function (data, type, row, meta) { return "<td hidden><input type='hidden' id='CallHistoryID' name='CallHistoryID' value=" + row.CallHistoryID + "></td>" } },
+                    { "targets": [7], "width": "14%", "style": "align='center'", "orderable": false, "data": "Action", "render": function (data, type, row, meta) { return /*row.UpdateCallHistory === true ?*/ '<a href="/callhistory/CallHistoryDetails?id=' + row.CallHistoryID + '" id="showCallHistoryForUpdate" class="glyphicon glyphicon-edit btn-circle btn-default"></a><a href="" id="showCallHistoryForDelete" class="glyphicon glyphicon-remove btn-circle btn-default"></a>' /*: ""*/ } }
+                ],
+                "fnRowCallback": function (nRow, aData, iDisplayIndex, iDisplayIndexFull) {
+                    $(nRow).find("td:eq(0)").attr("hidden", true);
+                    return nRow;
+                },
+
+                "columns": [
+                    {
+                        "data": "CallHistoryID"
+                    },
+                    {
+                        "data": "CallerName"
+                    },
+                    {
+                        "data": "CallerPhone"
+                    },
+                    {
+                        "data": "CountryID"
+                    },
+                    {
+                        "data": "Subject"
+                    },
+                    {
+                        "data": "CompanyID"
+                    },
+                    {
+                        "data": "CompanyVsStaffID"
+                    },
+                    {
+                        "data": ""
+                    }
+                ]
+            });
+
+        $("#tblCallHistory").on("click", "#showCallHistoryForDelete", function (e) {
+            e.preventDefault();
+            _CallHistoryID = $(this).closest("tr").find("td:eq(0) input").val();
+            $("#mdlCallHistoryDelete").modal('show');
+        });
+
+        $("#btnDelete").click(function (e) {
+            e.preventDefault();
+            CallHistoryManager.DeleteCallHistory(_CallHistoryID);
+        });
+
+        $("#btnDeleteClose").click(function (e) {
+            $("#mdlCallHistoryDelete").modal('hide');
+        });
+
+        $("#btnSearch").click(function () {
+            if (CallHistoryManager.SearchValidation() === true) {
+                table.draw();
+            }
+
+        });
+
+        $('#StartDateID').datepicker({
+            dateFormat: 'mm/dd/yy',
+            numberOfMonths: 1,
+            changeMonth: true,
+            changeYear: true
+        });
+
+        $('#EndDateID').datepicker({
+            dateFormat: 'mm/dd/yy',
+            numberOfMonths: 1,
+            changeMonth: true,
+            changeYear: true
+        });
+    });
+
+
+
+</script>

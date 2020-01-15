@@ -1,0 +1,92 @@
+﻿
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Name", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextBox("CreateCompanyName", null, new { @class = "form-control input-sm col-sm-11", @placeholder = "Company Name " })
+    </div>
+</div>
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Post Code", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextBox("CreatePostCode", null, new { @class = "form-control input-sm col-sm-11", @placeholder = " Post Code " })
+    </div>
+</div>
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Address", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextBox("CreateAddress", null, new { @class = "form-control input-sm col-sm-11", @placeholder = " Address " })
+    </div>
+</div>
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("City", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextBox("CreateCity", null, new { @class = "form-control input-sm col-sm-11", @placeholder = "City" })
+    </div>
+</div>
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Country", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+
+        @Html.DropDownList("CountryID", ViewBag.Country as SelectList, "Select Country", new { @class = "form-control input-sm col-sm-11", @placeholder = "Select Country" })
+    </div>
+</div>
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Details", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextArea("CreateDetails", null, new { @class = "form-control input-sm col-sm-11", @placeholder = "Details" })
+    </div>
+</div>
+
+<div class="form-group col-sm-6">
+    <label>
+        Company Logo
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </label>
+    <img id="PreviewCompanyCreateImage" src="" width="100" height="90">
+    <p>
+        <div class="col-sm-9" style="padding-left:0px;">
+            <input accept="image/*" class="" id="CompanyCreateImage" name="CompanyCreateImage" type="file" onchange="ImageManager.preview(this,'PreviewCompanyCreateImage')">
+        </div>
+        <div class="col-sm-3">
+            <button type="button" class="close" aria-label="Close" onclick="ImageManager.RemoveContent($('#CompanyCreateImage'),'CompanyCreateImage')">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+    </p>
+    <span id="spnfileTxt" class="text-danger" style="display: none;"></span>
+</div>
+
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Tag", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextBox("CreateTag", null, new { @class = "form-control input-sm col-sm-11", @placeholder = "Tag" })
+    </div>
+</div>

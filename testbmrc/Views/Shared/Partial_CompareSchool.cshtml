@@ -1,0 +1,258 @@
+﻿
+@model List<Project.Models.School>
+
+@{int modelcount = Model.Count();}
+<table class="table table-bordered table-striped table-hover" style="">
+    <tr>
+        <th>
+
+        </th>
+        @foreach (var item in Model)
+        {
+            <th>@item.SchoolName</th>
+        }
+    </tr>
+
+    <tr>
+        <td>Phone (Medical School Direct Line)</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.Phone</td>
+        }
+    </tr>
+    <tr>
+        <td>E-mail (Medical School)</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.Email</td>
+        }
+    </tr>
+    <tr>
+        <td>Course Structure (Traditional / Integrated / PBL / CBL)</td>
+
+        @foreach (var item in Model)
+        {
+            @if (item.CourseStructure == 1)
+            {
+                <td>Traditional</td>
+            }
+            @if (item.CourseStructure == 2)
+            {
+                <td>Integrated</td>
+            }
+            @if (item.CourseStructure == 3)
+            {
+                <td>PBL</td>
+            }
+            @if (item.CourseStructure == 4)
+            {
+                <td>CBL</td>
+            }
+            else
+            {
+                <td></td>
+            }
+        }
+    </tr>
+    <tr>
+        <td>Applications pa</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.ApplicationPA</td>
+        }
+    </tr>
+    <tr>
+        <td>Accepted pa</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.AcceptedPA</td>
+        }
+    </tr>
+    <tr>
+        <td>Success Ratio</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.SuccessRatio</td>
+        }
+    </tr>
+    <tr>
+        <td>Graduate Entry Available (Y/N)</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.IsGraduateEntryAvailable</td>
+        }
+    </tr>
+    <tr>
+        <td>Foundation / Access Courses Available (Y/N)</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.FoundationOrAccessCoursesAvailable</td>
+        }
+    </tr>
+    <tr>
+        <td>Intercalated BSc (Compulsory/ Selective/ None)</td>
+
+        @foreach (var item in Model)
+        {
+            @if (item.IntercalatedBSc == 1)
+            {
+                <td>Compulsory</td>
+            }
+            @if (item.IntercalatedBSc == 2)
+            {
+                <td>Selective</td>
+            }
+            @if (item.IntercalatedBSc == 3)
+            {
+                <td>None</td>
+            }
+        }
+    </tr>
+    <tr>
+        <td>GCSE Subjects Required</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.GCSESubjectsRequired</td>
+        }
+    </tr>
+    <tr>
+        <td>A-Level Subjects Required</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.A_LevelSubjectsRequired</td>
+        }
+    </tr>
+    <tr>
+        <td>A-Level Grades Required</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.A_LevelGradesRequired</td>
+        }
+    </tr>
+    <tr>
+        <td>Scottish Highers Subjects Required</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.ScottishHighersSubjectsRequired</td>
+        }
+    </tr>
+    <tr>
+        <td>Scottish Higher Grades Required</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.ScottishHigherGradesRequired</td>
+        }
+    </tr>
+    <tr>
+        <td>Scottish Advanced Highers Subjects Required</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.ScottishAdvancedHighersSubjectsRequired</td>
+        }
+    </tr>
+    <tr>
+        <td>Scottish Advanced Highers Grades Required</td>
+        @foreach (var item in Model)
+        {
+            <td>@item.ScottishAdvancedHighersGradesRequired</td>
+        }
+    </tr>
+    <tr>
+        <td>IB Subjects Required</td>
+        @foreach (var item in Model)
+        {
+            <td>@item.IBSubjectsRequired</td>
+        }
+    </tr>
+    <tr>
+        <td>IB Grades Required</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.IBGradesRequired</td>
+        }
+    </tr>
+    <tr>
+        <td>UCAT Required (Y/N)</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.UCATRequired</td>
+        }
+    </tr>
+    <tr>
+        <td>How is UCAT used?</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.HowisUCATused</td>
+        }
+    </tr>
+    <tr>
+        <td>BMAT Required (Y/N)</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.BMATRequired</td>
+        }
+    </tr>
+
+    <tr>
+        <td>How is BMAT used?</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.HowisBMATUsed</td>
+        }
+    </tr>
+    <tr>
+        <td>Interview Style (Traditional / MMI)</td>
+
+        @foreach (var item in Model)
+        {
+            @if (item.InterviewStyle == 1)
+            {
+                <td>Traditional</td>
+            }
+            @if (item.InterviewStyle == 2)
+            {
+                <td>MMI</td>
+            }
+            else
+            {
+                <td></td>
+            }
+        }
+    </tr>
+    <tr>
+        <td>Fees (EU students)</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.Fees_EUStudents</td>
+        }
+    </tr>
+    <tr>
+        <td>Fees (Non-EU students)</td>
+
+        @foreach (var item in Model)
+        {
+            <td>@item.Fees_NonEUStudents</td>
+        }
+    </tr>
+
+
+</table>

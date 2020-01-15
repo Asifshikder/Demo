@@ -1,0 +1,23 @@
+﻿
+
+@{ 
+    var claimInformation = (System.Security.Claims.ClaimsIdentity)User.Identity;
+    if (claimInformation.IsAuthenticated)
+    {
+        var role = claimInformation.FindFirst(System.Security.Claims.ClaimTypes.Role).Value;
+
+        if (role == "4")
+        {
+            Layout = "~/Views/Shared/_Layout.cshtml";
+        }
+        else
+        {
+            Layout = "~/Views/Shared/_LayoutdReviewer.cshtml";
+        }
+    }
+    else
+    {
+        Layout = "~/Views/Shared/_EmptyLayout.cshtml";
+    }
+
+}

@@ -1,0 +1,135 @@
+﻿
+
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("First Name", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextBox("InsertFirstName", null, new { @class = "form-control input-sm col-sm-11", @placeholder = "First Name " })
+    </div>
+</div>
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Last Name", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextBox("InsertLastName", null, new { @class = "form-control input-sm col-sm-11", @placeholder = "Last Name " })
+    </div>
+</div>
+<div class="form-group col-sm-6">
+    <label>
+        Staff Photo
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </label>
+    <img id="PreviewStaffImageInsert" src="" width="100" height="90">
+    <p>
+        <div class="col-sm-9" style="padding-left:0px;">
+            <input accept="image/*" class="" id="StaffImageInsert" name="StaffImageInsert" type="file" onchange="ImageManager.preview(this,'PreviewStaffImageInsert')">
+        </div>
+        <div class="col-sm-3">
+            <button type="button" class="close" aria-label="Close" onclick="ImageManager.RemoveContent($('#StaffImageInsert'),'StaffImageInsert')">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+    </p>
+    <span id="spnfileTxt" class="text-danger" style="display: none;"></span>
+</div>
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Login Name", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextBox("InsertLoginName", null, new { @class = "form-control input-sm col-sm-11", @placeholder = "Login Name" })
+    </div>
+</div>
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Password", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextBox("InsertPassword", null, new { @class = "form-control input-sm col-sm-11", @placeholder = " Password " })
+    </div>
+</div>
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Phone", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextBox("InsertPhone", null, new { @class = "form-control input-sm col-sm-11", @placeholder = "Phone" })
+    </div>
+</div>
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Email", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextBox("InsertEmail", null, new { @class = "form-control input-sm col-sm-11", @placeholder = "Email" })
+    </div>
+</div>
+
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Address", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.TextBox("InsertAddress", null, new { @class = "form-control input-sm col-sm-11", @placeholder = "Address" })
+    </div>
+</div>
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Staff Status", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.DropDownList("StatusInsert", ViewBag.StatusType as SelectList, "Select Status", new { @class = "form-control input-sm col-sm-11", @placeholder = "Select Status" })
+
+    </div>
+</div>
+
+@*<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("Role", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.DropDownList("RoleID", null, "Select Role", new { @class = "form-control input-sm col-sm-11", @placeholder = "Select Role" })
+    </div>
+</div>
+
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("User Right Permission", null, new { @class = "control-label col-md-0", Style = "float:left" })
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        @Html.DropDownList("UserRightPermissionID", null, "Select User Permission", new { @class = "form-control input-sm col-sm-11", @placeholder = "Select User Permission" })
+    </div>
+</div>*@
+<div class="form-group col-sm-6">
+    <div>
+        @Html.Label("User Type", null, new { @class = "control-label col-md-0", Style = "float:left" })
+
+        <span class="required_field col-md-0" style="padding-left:5px"> *</span>
+    </div>
+    <div style="clear:both"> </div>
+    <div class="col-md-11" style="padding-left: 0px;">
+        <span>Is Super User: </span>@Html.CheckBox("IsSuperUser",false)
+    </div>
+</div>

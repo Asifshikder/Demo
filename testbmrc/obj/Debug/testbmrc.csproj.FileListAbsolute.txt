@@ -1,0 +1,492 @@
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\ApplicationInsights.config
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\testbmrc.dll.config
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\testbmrc.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\testbmrc.pdb
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\csc.exe
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\csc.exe.config
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\csc.rsp
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\csi.exe
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\csi.exe.config
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\csi.rsp
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.AppContext.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Collections.Immutable.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Console.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.IO.Compression.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.IO.FileSystem.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.IO.Pipes.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Security.AccessControl.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Security.Claims.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Threading.Thread.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.ValueTuple.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Xml.XPath.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\vbc.exe
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\vbc.exe.config
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\vbc.rsp
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\VBCSCompiler.exe
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\roslyn\VBCSCompiler.exe.config
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Antlr3.Runtime.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\EntityFramework.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\EntityFramework.SqlServer.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AI.Web.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AI.WindowsServer.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.ApplicationInsights.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Google.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Web.Infrastructure.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Newtonsoft.Json.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Owin.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.Helpers.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.Mvc.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.Optimization.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.Razor.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.WebPages.Deployment.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.WebPages.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.WebPages.Razor.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\WebGrease.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.Helpers.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.Mvc.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.Optimization.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.Razor.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.WebPages.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.WebPages.Deployment.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Web.WebPages.Razor.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Newtonsoft.Json.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Antlr3.Runtime.pdb
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\EntityFramework.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\EntityFramework.SqlServer.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Google.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AI.WindowsServer.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.AI.Web.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\unknown\source\repos\testbmrc\testbmrc\obj\Debug\testbmrc.csproj.CoreCompileInputs.cache
+c:\users\unknown\source\repos\testbmrc\testbmrc\obj\Debug\testbmrc.csproj.CopyComplete
+c:\users\unknown\source\repos\testbmrc\testbmrc\obj\Debug\testbmrc.dll
+c:\users\unknown\source\repos\testbmrc\testbmrc\obj\Debug\testbmrc.pdb
+c:\users\unknown\source\repos\testbmrc\testbmrc\obj\Debug\testbmrc.csprojAssemblyReference.cache
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\ApplicationInsights.config
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\testbmrc.dll.config
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\testbmrc.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\testbmrc.pdb
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\csc.exe
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\csc.exe.config
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\csc.rsp
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\csi.exe
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\csi.exe.config
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\csi.rsp
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.AppContext.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Collections.Immutable.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Console.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Diagnostics.Process.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.IO.Compression.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.IO.FileSystem.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.IO.Pipes.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Reflection.Metadata.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Security.AccessControl.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Security.Claims.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Threading.Thread.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.ValueTuple.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Xml.XPath.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\vbc.exe
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\vbc.exe.config
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\vbc.rsp
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\VBCSCompiler.exe
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\roslyn\VBCSCompiler.exe.config
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Antlr3.Runtime.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\EntityFramework.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\EntityFramework.SqlServer.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AI.DependencyCollector.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AI.Web.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AI.WindowsServer.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.ApplicationInsights.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Google.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Web.Infrastructure.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Newtonsoft.Json.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Owin.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.Helpers.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.Mvc.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.Optimization.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.Razor.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.WebPages.Deployment.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.WebPages.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.WebPages.Razor.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\WebGrease.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.Helpers.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.Mvc.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.Optimization.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.Razor.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.WebPages.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.WebPages.Deployment.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Web.WebPages.Razor.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Newtonsoft.Json.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Antlr3.Runtime.pdb
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\EntityFramework.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\EntityFramework.SqlServer.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Google.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AI.DependencyCollector.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AI.WindowsServer.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.AI.Web.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\obj\Debug\testbmrc.csprojAssemblyReference.cache
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\obj\Debug\testbmrc.csproj.CoreCompileInputs.cache
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\obj\Debug\testbmrc.csproj.CopyComplete
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\obj\Debug\testbmrc.dll
+D:\Templates\Template Random\Default Layout ready for every page\testbmrc\testbmrc\obj\Debug\testbmrc.pdb
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\obj\Debug\testbmrc.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\obj\Debug\testbmrc.pdb
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\ApplicationInsights.config
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\testbmrc.dll.config
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\testbmrc.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\testbmrc.pdb
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\csc.exe
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\csc.exe.config
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\csc.rsp
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\csi.exe
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\csi.exe.config
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\csi.rsp
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.AppContext.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Console.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Diagnostics.Process.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.IO.Compression.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.IO.Pipes.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Security.Claims.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Threading.Thread.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.ValueTuple.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\vbc.exe
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\vbc.exe.config
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\vbc.rsp
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\VBCSCompiler.exe
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Antlr3.Runtime.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\EntityFramework.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\EntityFramework.SqlServer.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AI.Web.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Newtonsoft.Json.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Owin.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.Helpers.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.Mvc.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.Optimization.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.Razor.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.WebPages.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.WebPages.Razor.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\WebGrease.dll
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.Helpers.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.Mvc.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.Optimization.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.Razor.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.WebPages.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Web.WebPages.Razor.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Newtonsoft.Json.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Antlr3.Runtime.pdb
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\EntityFramework.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\EntityFramework.SqlServer.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.AI.Web.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\obj\Debug\testbmrc.csproj.CopyComplete
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\obj\Debug\testbmrc.csproj.GenerateResource.cache
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\obj\Debug\Project.Migrations.unknown.resources
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\obj\Debug\Project.Migrations.Schol.resources
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\obj\Debug\Project.Migrations.SchoolUpdate.resources
+C:\Projects\VirtualEnterprise\ProjectTemplate\testbmrc\obj\Debug\testbmrc.csprojAssemblyReference.cache
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\ApplicationInsights.config
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\testbmrc.dll.config
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\testbmrc.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\testbmrc.pdb
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\csc.exe
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\csc.exe.config
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\csc.rsp
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\csi.exe
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\csi.exe.config
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\csi.rsp
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.AppContext.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Console.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\vbc.exe
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\vbc.exe.config
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\vbc.rsp
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Antlr3.Runtime.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\EntityFramework.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\EntityFramework.SqlServer.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AI.Web.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Newtonsoft.Json.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Owin.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.Helpers.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.Mvc.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.Optimization.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.Razor.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.WebPages.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\WebGrease.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.Helpers.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.Mvc.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.Optimization.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.Razor.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.WebPages.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Newtonsoft.Json.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Antlr3.Runtime.pdb
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\EntityFramework.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\EntityFramework.SqlServer.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.AI.Web.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\obj\Debug\testbmrc.csprojAssemblyReference.cache
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\obj\Debug\testbmrc.csproj.CopyComplete
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\obj\Debug\testbmrc.dll
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\obj\Debug\testbmrc.pdb
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\obj\Debug\testbmrc.Migrations.updateAll.resources
+C:\Users\Asifs\Pictures\VirtualEnterprise\testbmrc\obj\Debug\testbmrc.csproj.GenerateResource.cache

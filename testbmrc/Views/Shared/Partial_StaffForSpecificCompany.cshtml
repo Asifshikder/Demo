@@ -1,0 +1,29 @@
+﻿<input type="hidden" id="CompanyIDS" />
+<table id="tblCompanyVsStaff" class="table table-bordered table-hover table-responsive table-striped" style="align-content: center; width: 100%;">
+    <thead>
+        <tr>
+            <th hidden="hidden"></th>
+            <th>
+                @Html.DisplayName("Image")
+            </th>
+            <th>
+                @Html.DisplayName("Name")
+            </th>
+            <th>
+                @Html.DisplayName("Email")
+            </th>
+            <th>
+                @Html.DisplayName("Phone")
+            </th>
+            <th>
+                @Html.DisplayName("Status")
+            </th>
+            <th>
+                @*@if (ISP_ManagementSystemModel.AppUtils.HasAccessInTheList(ISP_ManagementSystemModel.AppUtils.Create_Company))
+                    {*@
+                <a href="" style="font-weight:800;color: crimson" id="btnCreateNewStaffFromMdl">Create New</a>
+                @* } *@
+            </th>
+        </tr>
+    </thead>
+</table>

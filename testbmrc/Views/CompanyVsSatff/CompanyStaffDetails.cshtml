@@ -1,0 +1,104 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.AntiForgeryToken()
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <section class="content-header">
+            <h6 class="panel-title">All Staff</h6>
+            <ol class="breadcrumb">
+                <li class="active"><a href="/CompanyVsSatff/ViewCompanyStaff"><i class="fa fa-dashboard"></i> All Staff</a></li>
+            </ol>
+        </section>
+    </div>
+
+    <div class="panel-body">
+        <table id="tblCompanyVsStaff" class="table table-bordered table-hover table-responsive table-striped" style="align-content: center; width: 100%;">
+            <thead>
+                <tr>
+                    <th hidden="hidden"></th>
+                    <th>
+                        @Html.DisplayName("Image")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Name")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Email")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Phone")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Status")
+                    </th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+
+<script>
+    var _CompanyVsStaffID;
+    var tblStaff;
+    var table;
+    var StatusIsActive = 1;
+    $(document).ready(function () {
+        tblStaff = $("#tblCompanyVsStaff").DataTable
+            ({
+                "language":
+                {
+                    "processing": "<div class='overlay custom-loader-background'><i class='fa fa-cog fa-spin custom-loader-color'></i></div>"
+                },
+                "processing": true,
+                "serverSide": true,
+
+                "ajax":
+                {
+                    "url": "/CompanyVsSatff/GetStaffListForSpecificCompanyByID",
+                    "type": "POST",
+                    "dataType": "JSON",
+                    data: function (d) {
+                        d.__RequestVerificationToken = $('[name=__RequestVerificationToken]').val();
+                    }
+                },
+                "columnDefs": [
+                    { "targets": [0], "width": "5%" },
+                    { "targets": [0], "data": "CompanyVsStaffID", "render": function (data, type, row, meta) { return "<td hidden><input type='hidden' id='CompanyVsStaffID' name='CompanyVsStaffID' value=" + row.CompanyVsStaffID + "></td>" } },
+                    { "targets": [1], "width": "8%", "style": "align='center'", "orderable": false, "data": "Action", "render": function (data, type, row, meta) { return '<img src=' + row.CompanyStaffImage + '  height="50" width="50"/>' } },
+                    { "targets": [2], "width": "18%", "style": "align='center'", "orderable": false, "data": "Action", "render": function (data, type, row, meta) { return row.FirstName + " " + row.LastName } },
+                    { "targets": [5], "width": "14%", "style": "align='center'", "orderable": false, "data": "Action", "render": function (data, type, row, meta) { return row.Status === StatusIsActive ? "Active" : "Lock" } },
+                ],
+                "fnRowCallback": function (nRow, aData, iDisplayIndex, iDisplayIndexFull) {
+                    $(nRow).find("td:eq(0)").attr("hidden", true);
+                    return nRow;
+                },
+
+                "columns": [
+                    {
+                        "data": ""
+                    },
+                    {
+                        "data": ""
+                    },
+                    {
+                        "data": ""
+                    },
+                    {
+                        "data": "Email"
+                    },
+                    {
+                        "data": "Phone"
+                    },
+                    {
+                        "data": ""
+                    },
+                ]
+            });
+        
+    });
+
+</script>

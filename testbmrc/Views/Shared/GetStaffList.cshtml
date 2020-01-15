@@ -1,0 +1,9 @@
+﻿
+<option value="">Select Company Staff</option>
+@if (ViewBag.StaffListt != null)
+{
+    foreach (var item in ViewBag.StaffListt)
+    {
+        <option value="@item.Value">@item.Text</option>
+    }
+}
